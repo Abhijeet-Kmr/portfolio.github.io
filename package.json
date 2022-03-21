@@ -1,0 +1,14 @@
+{
+  "name": "abhijeet_kumar_website",
+  "version": "1.0.0",
+  "description": "Abhijeet Kumar - Personal Portfolio Website",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Abhijeet Kumar",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
